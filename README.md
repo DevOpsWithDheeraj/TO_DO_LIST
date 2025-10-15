@@ -1,5 +1,3 @@
-# TO_DO_LIST
-
 # Overview
 The To-Do List App is a simple and user-friendly application built using Python's Tkinter library.
 It helps users add, view, delete, and clear tasks easily — making it a great beginner-friendly project for learning Python GUI programming.
